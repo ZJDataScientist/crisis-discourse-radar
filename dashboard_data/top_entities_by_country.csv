@@ -1,0 +1,321 @@
+country,label,entity,count
+China,GPE,China,8776
+China,GPE,US,620
+China,GPE,the United States,307
+China,GPE,Russia,293
+China,GPE,U.S.,274
+China,GPE,Taiwan,165
+China,GPE,Afghanistan,153
+China,GPE,BRICS,133
+China,GPE,Beijing,125
+China,GPE,Hong Kong,121
+China,GPE,Myanmar,119
+China,GPE,France,106
+China,GPE,Xinjiang,90
+China,GPE,Kazakhstan,86
+China,GPE,China-Africa,84
+China,GPE,Japan,84
+China,GPE,Ukraine,81
+China,GPE,Palestine,80
+China,GPE,Shanghai,66
+China,GPE,Egypt,61
+China,NORP,Chinese,2270
+China,NORP,African,401
+China,NORP,Asian,145
+China,NORP,Arab,134
+China,NORP,Palestinian,103
+China,NORP,American,88
+China,NORP,European,61
+China,NORP,Afghan,56
+China,NORP,Central Asian,51
+China,NORP,East Asian,50
+China,NORP,Tajikistan,37
+China,NORP,Russian,35
+China,NORP,Eurasian,33
+China,NORP,Iranian,29
+China,NORP,Latin American,28
+China,NORP,Syrian,27
+China,NORP,Western,27
+China,NORP,Islamic,25
+China,NORP,Japanese,24
+China,NORP,French,23
+China,ORG,Chinaâs,531
+China,ORG,UN,493
+China,ORG,ASEAN,442
+China,ORG,COVID-19,287
+China,ORG,SCO,280
+China,ORG,CPC,202
+China,ORG,the United Nations,163
+China,ORG,G20,149
+China,ORG,BRI,142
+China,ORG,Party,131
+China,ORG,GDI,121
+China,ORG,the UN Charter,118
+China,ORG,EU,101
+China,ORG,WTO,96
+China,ORG,APEC,81
+China,ORG,DPRK,81
+China,ORG,the Global Development Initiative,80
+China,ORG,the Communist Party of China,79
+China,ORG,the CPC Central Committee,73
+China,ORG,FOCAC,72
+China,PERSON,Xi Jinping,780
+China,PERSON,COVID-19,227
+China,PERSON,Xi,153
+China,PERSON,Wang Yi,125
+China,PERSON,BRI,121
+China,PERSON,Belt,91
+China,PERSON,Li,77
+China,PERSON,H.E. Xi JinpingPresident,58
+China,PERSON,COVID,54
+China,PERSON,Xi Jinping's,54
+China,PERSON,Jiang,34
+China,PERSON,Councilor,32
+China,PERSON,Premier,29
+China,PERSON,Xi Jinpingâs,27
+China,PERSON,Li Keqiang,26
+China,PERSON,AIIB,25
+China,PERSON,H.E. Wang YiState Councilor,25
+China,PERSON,Keynote Speech,25
+China,PERSON,Putin,25
+China,PERSON,Joe Biden,23
+Russia,GPE,Russia,32925
+Russia,GPE,the Russian Federation,5085
+Russia,GPE,Moscow,4001
+Russia,GPE,Ukraine,3393
+Russia,GPE,China,3209
+Russia,GPE,the Republic,2151
+Russia,GPE,US,1879
+Russia,GPE,United States,1792
+Russia,GPE,Syria,1762
+Russia,GPE,Kazakhstan,1471
+Russia,GPE,India,1087
+Russia,GPE,Iran,1042
+Russia,GPE,Turkey,1017
+Russia,GPE,Germany,945
+Russia,GPE,Japan,864
+Russia,GPE,France,841
+Russia,GPE,the Soviet Union,815
+Russia,GPE,Ukrainian,758
+Russia,GPE,Belarus,747
+Russia,GPE,Kyrgyzstan,614
+Russia,NORP,Russian,14396
+Russia,NORP,European,1560
+Russia,NORP,Soviet,1116
+Russia,NORP,Chinese,1074
+Russia,NORP,African,924
+Russia,NORP,Syrian,889
+Russia,NORP,Russians,646
+Russia,NORP,American,618
+Russia,NORP,German,617
+Russia,NORP,Sevastopol,585
+Russia,NORP,Turkish,536
+Russia,NORP,Ukrainian,488
+Russia,NORP,Tajikistan,471
+Russia,NORP,Eurasian,469
+Russia,NORP,French,436
+Russia,NORP,Japanese,372
+Russia,NORP,Americans,318
+Russia,NORP,Nazi,288
+Russia,NORP,Indian,280
+Russia,NORP,Belarusian,276
+Russia,ORG,the Government,2824
+Russia,ORG,the,1332
+Russia,ORG,Crimea,1033
+Russia,ORG,NATO,912
+Russia,ORG,UN,853
+Russia,ORG,the Presidential Executive Office,801
+Russia,ORG,Fatherland,797
+Russia,ORG,Presidential Executive Office,746
+Russia,ORG,the State Duma,733
+Russia,ORG,the Federal Security Service,636
+Russia,ORG,the Foreign Intelligence Service,523
+Russia,ORG,EU,447
+Russia,ORG,the Armed Forces,433
+Russia,ORG,Navy,421
+Russia,ORG,the Defence Ministry,417
+Russia,ORG,the Eurasian Economic Union,416
+Russia,ORG,the Ministry,408
+Russia,ORG,Motherland,404
+Russia,ORG,the Russian Federation Security Council,400
+Russia,ORG,Commissions,380
+Russia,PERSON,Vladimir Putin,22061
+Russia,PERSON,Putin,2191
+Russia,PERSON,St Petersburg,1128
+Russia,PERSON,Donbass,919
+Russia,PERSON,Sochi,716
+Russia,PERSON,Kiev,607
+Russia,PERSON,Vladivostok,567
+Russia,PERSON,Sergei Shoigu,517
+Russia,PERSON,Peskov,432
+Russia,PERSON,Azerbaijan,430
+Russia,PERSON,Belarus,375
+Russia,PERSON,Trump,363
+Russia,PERSON,Vladimir,351
+Russia,PERSON,Anton Vaino Vaino Anton Chief,349
+Russia,PERSON,Xi Jinping,333
+Russia,PERSON,Armenia,327
+Russia,PERSON,Sergei Lavrov,324
+Russia,PERSON,Shoigu Sergei,320
+Russia,PERSON,Fyodor Lukyanov,316
+Russia,PERSON,Anton Siluanov,297
+United Kingdom,GPE,UK,971
+United Kingdom,GPE,Britain,599
+United Kingdom,GPE,Ukraine,266
+United Kingdom,GPE,Northern Ireland,192
+United Kingdom,GPE,the United Kingdom,192
+United Kingdom,GPE,England,134
+United Kingdom,GPE,Russia,127
+United Kingdom,GPE,China,99
+United Kingdom,GPE,London,99
+United Kingdom,GPE,United Kingdom,64
+United Kingdom,GPE,Wales,62
+United Kingdom,GPE,US,60
+United Kingdom,GPE,AI,57
+United Kingdom,GPE,Ireland,57
+United Kingdom,GPE,Scotland,53
+United Kingdom,GPE,France,52
+United Kingdom,GPE,Italy,48
+United Kingdom,GPE,G7,44
+United Kingdom,GPE,Israel,43
+United Kingdom,GPE,Poland,41
+United Kingdom,NORP,British,409
+United Kingdom,NORP,European,194
+United Kingdom,NORP,Russian,84
+United Kingdom,NORP,Jewish,44
+United Kingdom,NORP,Ukrainian,36
+United Kingdom,NORP,Ukrainians,31
+United Kingdom,NORP,Polish,29
+United Kingdom,NORP,French,24
+United Kingdom,NORP,Syrian,24
+United Kingdom,NORP,Irish,22
+United Kingdom,NORP,Conservative,20
+United Kingdom,NORP,Chinese,18
+United Kingdom,NORP,Italian,16
+United Kingdom,NORP,American,15
+United Kingdom,NORP,Covid,11
+United Kingdom,NORP,anti-Semitism,10
+United Kingdom,NORP,Albanian,8
+United Kingdom,NORP,Catholic,7
+United Kingdom,NORP,Israeli,7
+United Kingdom,NORP,Scottish,7
+United Kingdom,ORG,EU,670
+United Kingdom,ORG,NHS,381
+United Kingdom,ORG,the European Union,243
+United Kingdom,ORG,House,121
+United Kingdom,ORG,NATO,111
+United Kingdom,ORG,Parliament,100
+United Kingdom,ORG,Commonwealth,58
+United Kingdom,ORG,Cabinet,31
+United Kingdom,ORG,European Union,30
+United Kingdom,ORG,Government,30
+United Kingdom,ORG,the House of Commons,28
+United Kingdom,ORG,PPE,24
+United Kingdom,ORG,Coronavirus,23
+United Kingdom,ORG,UN,22
+United Kingdom,ORG,COVID-19,21
+United Kingdom,ORG,Net Zero,20
+United Kingdom,ORG,Channel,16
+United Kingdom,ORG,State,15
+United Kingdom,ORG,Union,15
+United Kingdom,ORG,GP,14
+United Kingdom,PERSON,Putin,125
+United Kingdom,PERSON,Brexit,109
+United Kingdom,PERSON,Covid,68
+United Kingdom,PERSON,Bill,38
+United Kingdom,PERSON,Patrick,24
+United Kingdom,PERSON,COVID-19,19
+United Kingdom,PERSON,Martin,19
+United Kingdom,PERSON,Trump,19
+United Kingdom,PERSON,Glasgow,16
+United Kingdom,PERSON,Chris,15
+United Kingdom,PERSON,Manchester,15
+United Kingdom,PERSON,May,15
+United Kingdom,PERSON,Zelenskyy,14
+United Kingdom,PERSON,Rishi Sunak,13
+United Kingdom,PERSON,Boris Johnson,12
+United Kingdom,PERSON,Kyiv,12
+United Kingdom,PERSON,COVID,11
+United Kingdom,PERSON,Patrick Vallance,11
+United Kingdom,PERSON,Juncker,10
+United Kingdom,PERSON,Madam,10
+United States,GPE,America,12713
+United States,GPE,the United States,6660
+United States,GPE,China,6007
+United States,GPE,Russia,2348
+United States,GPE,U.S.,2330
+United States,GPE,Ukraine,2027
+United States,GPE,States,1844
+United States,GPE,Mexico,1677
+United States,GPE,Iran,1601
+United States,GPE,Israel,1593
+United States,GPE,Florida,1536
+United States,GPE,New York,1347
+United States,GPE,the United States of America,1341
+United States,GPE,Texas,1292
+United States,GPE,Washington,1241
+United States,GPE,North Korea,1201
+United States,GPE,Ohio,1084
+United States,GPE,Pennsylvania,1081
+United States,GPE,Canada,1006
+United States,GPE,Japan,992
+United States,NORP,American,12662
+United States,NORP,Americans,5895
+United States,NORP,Democrats,3814
+United States,NORP,Republicans,2811
+United States,NORP,Republican,1938
+United States,NORP,Democrat,1368
+United States,NORP,Hispanic,632
+United States,NORP,African American,573
+United States,NORP,Irish,489
+United States,NORP,Jewish,488
+United States,NORP,Russian,459
+United States,NORP,Chinese,372
+United States,NORP,it's,313
+United States,NORP,Asian,299
+United States,NORP,Democratic,298
+United States,NORP,Ukrainian,248
+United States,NORP,African Americans,226
+United States,NORP,European,210
+United States,NORP,Palestinians,206
+United States,NORP,Indian,166
+United States,ORG,Congress,3411
+United States,ORG,State,3389
+United States,ORG,Senate,1981
+United States,ORG,Nation,1930
+United States,ORG,Medicare,1531
+United States,ORG,House,1351
+United States,ORG,NATO,1321
+United States,ORG,White House,1311
+United States,ORG,the White House,1184
+United States,ORG,Trump,913
+United States,ORG,FEMA,732
+United States,ORG,Social Security,697
+United States,ORG,ISIS,679
+United States,ORG,the Federal Government,654
+United States,ORG,NAFTA,634
+United States,ORG,Federal,625
+United States,ORG,MAGA,572
+United States,ORG,Cabinet,540
+United States,ORG,the Supreme Court,510
+United States,ORG,FDA,394
+United States,PERSON,Trump,6145
+United States,PERSON,Biden,2451
+United States,PERSON,Joe,1319
+United States,PERSON,Mike,1223
+United States,PERSON,Obama,1181
+United States,PERSON,John,960
+United States,PERSON,Putin,948
+United States,PERSON,Donald Trump,947
+United States,PERSON,Joe Biden,868
+United States,PERSON,God,798
+United States,PERSON,Steve,718
+United States,PERSON,Jill,682
+United States,PERSON,Jim,640
+United States,PERSON,COVID,610
+United States,PERSON,Pence,606
+United States,PERSON,Xi,597
+United States,PERSON,David,585
+United States,PERSON,Boo,532
+United States,PERSON,Birx,517
+United States,PERSON,Fauci,467

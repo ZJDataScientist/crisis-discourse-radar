@@ -1,0 +1,7 @@
+regime,sentiment,count,pct
+Authoritarian,negative,74,0.66
+Authoritarian,neutral,3587,32.23
+Authoritarian,positive,7469,67.11
+Democratic,negative,19,0.55
+Democratic,neutral,444,12.74
+Democratic,positive,3022,86.71

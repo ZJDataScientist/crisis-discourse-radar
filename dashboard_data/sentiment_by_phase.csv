@@ -1,0 +1,16 @@
+phase_type,phase,sentiment,count,pct
+health,during_health,negative,18,0.6
+health,during_health,neutral,848,28.16
+health,during_health,positive,2145,71.24
+health,post_health,negative,25,0.52
+health,post_health,neutral,1263,26.05
+health,post_health,positive,3560,73.43
+health,pre_health,negative,50,0.74
+health,pre_health,neutral,1920,28.42
+health,pre_health,positive,4786,70.84
+security,during_security,negative,25,0.54
+security,during_security,neutral,1198,25.89
+security,during_security,positive,3405,73.57
+security,pre_security,negative,68,0.68
+security,pre_security,neutral,2833,28.37
+security,pre_security,positive,7086,70.95

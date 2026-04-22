@@ -1,0 +1,12 @@
+country,sentiment,count,pct
+China,neutral,74,22.29
+China,positive,258,77.71
+Russia,negative,74,0.69
+Russia,neutral,3513,32.53
+Russia,positive,7211,66.78
+United Kingdom,negative,1,0.43
+United Kingdom,neutral,56,24.14
+United Kingdom,positive,175,75.43
+United States,negative,18,0.55
+United States,neutral,388,11.93
+United States,positive,2847,87.52

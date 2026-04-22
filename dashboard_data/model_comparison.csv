@@ -1,0 +1,27 @@
+model,metric,value,class,epoch
+Logistic Regression,accuracy,0.858707,overall,
+Linear SVM,accuracy,0.868628,overall,
+LSTM,accuracy,0.701334,overall,
+LSTM,f1-score,0.0,negative,
+LSTM,f1-score,0.083691,neutral,
+LSTM,f1-score,0.821655,positive,
+LSTM,accuracy,0.700096,overall,1.0
+LSTM,loss,0.630303,overall,1.0
+LSTM,val_accuracy,0.727234,overall,1.0
+LSTM,val_loss,0.579805,overall,1.0
+LSTM,accuracy,0.708008,overall,2.0
+LSTM,loss,0.576745,overall,2.0
+LSTM,val_accuracy,0.726806,overall,2.0
+LSTM,val_loss,0.583971,overall,2.0
+LSTM,accuracy,0.727146,overall,3.0
+LSTM,loss,0.516927,overall,3.0
+LSTM,val_accuracy,0.724241,overall,3.0
+LSTM,val_loss,0.704159,overall,3.0
+LSTM,accuracy,0.759863,overall,4.0
+LSTM,loss,0.463482,overall,4.0
+LSTM,val_accuracy,0.70372,overall,4.0
+LSTM,val_loss,0.702104,overall,4.0
+LSTM,accuracy,0.7728,overall,5.0
+LSTM,loss,0.423719,overall,5.0
+LSTM,val_accuracy,0.70714,overall,5.0
+LSTM,val_loss,0.807738,overall,5.0

@@ -1,0 +1,161 @@
+regime,label,entity,count
+Authoritarian,GPE,Russia,33218
+Authoritarian,GPE,China,11985
+Authoritarian,GPE,the Russian Federation,5088
+Authoritarian,GPE,Moscow,4004
+Authoritarian,GPE,Ukraine,3474
+Authoritarian,GPE,US,2499
+Authoritarian,GPE,the Republic,2151
+Authoritarian,GPE,Syria,1800
+Authoritarian,GPE,United States,1795
+Authoritarian,GPE,Kazakhstan,1557
+Authoritarian,GPE,India,1142
+Authoritarian,GPE,Iran,1069
+Authoritarian,GPE,Turkey,1022
+Authoritarian,GPE,Germany,958
+Authoritarian,GPE,Japan,948
+Authoritarian,GPE,France,947
+Authoritarian,GPE,the Soviet Union,815
+Authoritarian,GPE,Ukrainian,758
+Authoritarian,GPE,Belarus,753
+Authoritarian,GPE,Afghanistan,706
+Authoritarian,NORP,Russian,14431
+Authoritarian,NORP,Chinese,3344
+Authoritarian,NORP,European,1621
+Authoritarian,NORP,African,1325
+Authoritarian,NORP,Soviet,1116
+Authoritarian,NORP,Syrian,916
+Authoritarian,NORP,American,706
+Authoritarian,NORP,Russians,647
+Authoritarian,NORP,German,623
+Authoritarian,NORP,Sevastopol,585
+Authoritarian,NORP,Turkish,536
+Authoritarian,NORP,Tajikistan,508
+Authoritarian,NORP,Eurasian,502
+Authoritarian,NORP,Ukrainian,491
+Authoritarian,NORP,French,459
+Authoritarian,NORP,Japanese,396
+Authoritarian,NORP,Asian,336
+Authoritarian,NORP,Americans,334
+Authoritarian,NORP,Palestinian,313
+Authoritarian,NORP,Indian,291
+Authoritarian,ORG,the Government,2824
+Authoritarian,ORG,UN,1346
+Authoritarian,ORG,the,1332
+Authoritarian,ORG,Crimea,1033
+Authoritarian,ORG,NATO,917
+Authoritarian,ORG,the Presidential Executive Office,801
+Authoritarian,ORG,Fatherland,797
+Authoritarian,ORG,Presidential Executive Office,746
+Authoritarian,ORG,the State Duma,733
+Authoritarian,ORG,ASEAN,678
+Authoritarian,ORG,the Federal Security Service,636
+Authoritarian,ORG,SCO,600
+Authoritarian,ORG,EU,548
+Authoritarian,ORG,Chinaâs,531
+Authoritarian,ORG,the Foreign Intelligence Service,523
+Authoritarian,ORG,the Armed Forces,433
+Authoritarian,ORG,the Eurasian Economic Union,431
+Authoritarian,ORG,Navy,421
+Authoritarian,ORG,the Defence Ministry,417
+Authoritarian,ORG,the Ministry,408
+Authoritarian,PERSON,Vladimir Putin,22084
+Authoritarian,PERSON,Putin,2216
+Authoritarian,PERSON,St Petersburg,1128
+Authoritarian,PERSON,Xi Jinping,1113
+Authoritarian,PERSON,Donbass,919
+Authoritarian,PERSON,Sochi,716
+Authoritarian,PERSON,Kiev,607
+Authoritarian,PERSON,Vladivostok,567
+Authoritarian,PERSON,Sergei Shoigu,517
+Authoritarian,PERSON,Peskov,432
+Authoritarian,PERSON,Azerbaijan,431
+Authoritarian,PERSON,Belarus,375
+Authoritarian,PERSON,Trump,374
+Authoritarian,PERSON,COVID-19,371
+Authoritarian,PERSON,Vladimir,351
+Authoritarian,PERSON,Anton Vaino Vaino Anton Chief,349
+Authoritarian,PERSON,Armenia,327
+Authoritarian,PERSON,Sergei Lavrov,325
+Authoritarian,PERSON,Shoigu Sergei,320
+Authoritarian,PERSON,Fyodor Lukyanov,316
+Democratic,GPE,America,12742
+Democratic,GPE,the United States,6696
+Democratic,GPE,China,6106
+Democratic,GPE,Russia,2475
+Democratic,GPE,U.S.,2330
+Democratic,GPE,Ukraine,2293
+Democratic,GPE,States,1846
+Democratic,GPE,Mexico,1688
+Democratic,GPE,Israel,1636
+Democratic,GPE,Iran,1625
+Democratic,GPE,Florida,1536
+Democratic,GPE,New York,1349
+Democratic,GPE,the United States of America,1343
+Democratic,GPE,Texas,1292
+Democratic,GPE,Washington,1244
+Democratic,GPE,North Korea,1210
+Democratic,GPE,Ohio,1084
+Democratic,GPE,Pennsylvania,1081
+Democratic,GPE,Canada,1038
+Democratic,GPE,Japan,1023
+Democratic,NORP,American,12677
+Democratic,NORP,Americans,5898
+Democratic,NORP,Democrats,3814
+Democratic,NORP,Republicans,2812
+Democratic,NORP,Republican,1938
+Democratic,NORP,Democrat,1368
+Democratic,NORP,Hispanic,632
+Democratic,NORP,African American,573
+Democratic,NORP,Russian,543
+Democratic,NORP,British,534
+Democratic,NORP,Jewish,532
+Democratic,NORP,Irish,511
+Democratic,NORP,European,404
+Democratic,NORP,Chinese,390
+Democratic,NORP,it's,313
+Democratic,NORP,Asian,302
+Democratic,NORP,Democratic,299
+Democratic,NORP,Ukrainian,284
+Democratic,NORP,African Americans,226
+Democratic,NORP,Palestinians,209
+Democratic,ORG,Congress,3411
+Democratic,ORG,State,3404
+Democratic,ORG,Senate,1982
+Democratic,ORG,Nation,1930
+Democratic,ORG,Medicare,1531
+Democratic,ORG,House,1472
+Democratic,ORG,NATO,1432
+Democratic,ORG,White House,1311
+Democratic,ORG,the White House,1185
+Democratic,ORG,Trump,915
+Democratic,ORG,EU,801
+Democratic,ORG,FEMA,732
+Democratic,ORG,Social Security,697
+Democratic,ORG,ISIS,681
+Democratic,ORG,the Federal Government,654
+Democratic,ORG,NAFTA,634
+Democratic,ORG,Federal,625
+Democratic,ORG,MAGA,572
+Democratic,ORG,Cabinet,571
+Democratic,ORG,the European Union,537
+Democratic,PERSON,Trump,6164
+Democratic,PERSON,Biden,2457
+Democratic,PERSON,Joe,1319
+Democratic,PERSON,Mike,1224
+Democratic,PERSON,Obama,1183
+Democratic,PERSON,Putin,1073
+Democratic,PERSON,John,960
+Democratic,PERSON,Donald Trump,949
+Democratic,PERSON,Joe Biden,868
+Democratic,PERSON,God,798
+Democratic,PERSON,Steve,719
+Democratic,PERSON,Jill,682
+Democratic,PERSON,Jim,640
+Democratic,PERSON,COVID,621
+Democratic,PERSON,Pence,606
+Democratic,PERSON,Xi,600
+Democratic,PERSON,David,589
+Democratic,PERSON,Boo,532
+Democratic,PERSON,Birx,517
+Democratic,PERSON,Fauci,467

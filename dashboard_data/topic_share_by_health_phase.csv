@@ -1,0 +1,16 @@
+health_crisis_phase,dominant_topic,proportion,topic_name
+during_health,1,0.4011956160743939,Centralized Governance and Domestic State Authority
+during_health,4,0.30421786781800064,Geopolitical Security and Strategic Relations
+during_health,3,0.14679508468947194,Personalized Political Rhetoric and Executive Communication
+during_health,2,0.09232813018930588,National Economic Identity and Labor Framing
+during_health,0,0.05546330122882763,Global Development and Multilateral Cooperation
+post_health,1,0.35973597359735976,Centralized Governance and Domestic State Authority
+post_health,4,0.359529702970297,Geopolitical Security and Strategic Relations
+post_health,2,0.1604785478547855,National Economic Identity and Labor Framing
+post_health,0,0.06703795379537954,Global Development and Multilateral Cooperation
+post_health,3,0.053217821782178217,Personalized Political Rhetoric and Executive Communication
+pre_health,4,0.38617525162818234,Geopolitical Security and Strategic Relations
+pre_health,1,0.38099467140319715,Centralized Governance and Domestic State Authority
+pre_health,3,0.09991119005328597,Personalized Political Rhetoric and Executive Communication
+pre_health,2,0.09502664298401421,National Economic Identity and Labor Framing
+pre_health,0,0.037892243931320305,Global Development and Multilateral Cooperation

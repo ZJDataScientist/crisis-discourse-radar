@@ -1,0 +1,5 @@
+regime,security_crisis_phase,health_salience,security_salience,energy_salience,economic_risk_salience,n_speeches
+Authoritarian,during_security,0.001484,0.008596,0.002161,0.00472,3414
+Authoritarian,pre_security,0.001857,0.006672,0.0021,0.005116,7716
+Democratic,during_security,0.001508,0.005576,0.002491,0.005452,1214
+Democratic,pre_security,0.002659,0.00434,0.001235,0.006172,2271

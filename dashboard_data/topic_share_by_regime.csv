@@ -1,0 +1,11 @@
+regime,dominant_topic,proportion,topic_name
+Authoritarian,1,0.4953279424977538,Centralized Governance and Domestic State Authority
+Authoritarian,4,0.4543575920934412,Geopolitical Security and Strategic Relations
+Authoritarian,0,0.04995507637017071,Global Development and Multilateral Cooperation
+Authoritarian,2,0.00026954177897574127,National Economic Identity and Labor Framing
+Authoritarian,3,8.984725965858041e-05,Personalized Political Rhetoric and Executive Communication
+Democratic,2,0.48637015781922527,National Economic Identity and Labor Framing
+Democratic,3,0.3942611190817791,Personalized Political Rhetoric and Executive Communication
+Democratic,4,0.06054519368723099,Geopolitical Security and Strategic Relations
+Democratic,0,0.05509325681492109,Global Development and Multilateral Cooperation
+Democratic,1,0.0037302725968436155,Centralized Governance and Domestic State Authority

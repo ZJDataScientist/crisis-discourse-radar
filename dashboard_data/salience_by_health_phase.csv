@@ -1,0 +1,4 @@
+health_crisis_phase,health_salience,security_salience,energy_salience,economic_risk_salience,n_speeches
+during_health,0.004586,0.006062,0.002067,0.004739,3011
+post_health,0.001538,0.007885,0.002248,0.004924,4848
+pre_health,0.000888,0.006065,0.001819,0.005638,6756

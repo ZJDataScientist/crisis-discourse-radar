@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+texput.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Model artifacts (not used at dashboard runtime)
+*.keras
+*.pkl
+
+# Large source files replaced by trimmed versions
+dashboard_data/topic_document_assignments.csv
+
+# Raw data and pipeline scripts (not needed for deployment)
+data/
+corpus_clean.csv
+corpus_lemma.csv
+df_sent_ready.csv
+entity_data.csv
+linguistic_features.csv
+executive_speech_with_sentiment.csv
+executive_speech_master_corpus_FINAL.csv
+sentiment_model_results.csv
+lstm_predictions.csv
+
+# Standalone figures (paper exports, not loaded by the app)
+figure*.pdf
+figure*.png
+lstm_accuracy_history.png
+lstm_loss_history.png
+
+# Paper drafts and slides
+*.qmd
+*.docx
+*.pptx
+final_project_draft.pdf
+introduction_draft.pdf
+introduction_final.pdf
+methodology_draft.pdf
+mid_term_draft.pdf
+data_sources.pdf
+
+# R scripts
+scripts/

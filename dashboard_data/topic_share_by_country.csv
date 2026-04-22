@@ -1,0 +1,18 @@
+country,dominant_topic,proportion,topic_name
+China,0,0.9969879518072289,Global Development and Multilateral Cooperation
+China,4,0.0030120481927710845,Geopolitical Security and Strategic Relations
+Russia,1,0.5105575106501203,Centralized Governance and Domestic State Authority
+Russia,4,0.4682348583070939,Geopolitical Security and Strategic Relations
+Russia,0,0.020837192072606037,Global Development and Multilateral Cooperation
+Russia,2,0.00027782922763474715,National Economic Identity and Labor Framing
+Russia,3,9.260974254491573e-05,Personalized Political Rhetoric and Executive Communication
+United Kingdom,3,0.38362068965517243,Personalized Political Rhetoric and Executive Communication
+United Kingdom,0,0.2413793103448276,Global Development and Multilateral Cooperation
+United Kingdom,2,0.1896551724137931,National Economic Identity and Labor Framing
+United Kingdom,4,0.1724137931034483,Geopolitical Security and Strategic Relations
+United Kingdom,1,0.01293103448275862,Centralized Governance and Domestic State Authority
+United States,2,0.5075315093759607,National Economic Identity and Labor Framing
+United States,3,0.39501998155548723,Personalized Political Rhetoric and Executive Communication
+United States,4,0.052566861358745776,Geopolitical Security and Strategic Relations
+United States,0,0.04180756225023056,Global Development and Multilateral Cooperation
+United States,1,0.003074085459575776,Centralized Governance and Domestic State Authority

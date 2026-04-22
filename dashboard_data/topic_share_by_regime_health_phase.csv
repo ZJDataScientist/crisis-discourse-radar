@@ -1,0 +1,28 @@
+regime,health_crisis_phase,dominant_topic,proportion,topic_name
+Authoritarian,during_health,1,0.5402609086819613,Centralized Governance and Domestic State Authority
+Authoritarian,during_health,4,0.40350877192982454,Geopolitical Security and Strategic Relations
+Authoritarian,during_health,0,0.05578047683310841,Global Development and Multilateral Cooperation
+Authoritarian,during_health,2,0.000449842555105713,National Economic Identity and Labor Framing
+Authoritarian,post_health,1,0.48522853957636564,Centralized Governance and Domestic State Authority
+Authoritarian,post_health,4,0.4503901895206243,Geopolitical Security and Strategic Relations
+Authoritarian,post_health,0,0.0641025641025641,Global Development and Multilateral Cooperation
+Authoritarian,post_health,3,0.0002787068004459309,Personalized Political Rhetoric and Executive Communication
+Authoritarian,pre_health,1,0.48336153412295546,Centralized Governance and Domestic State Authority
+Authoritarian,pre_health,4,0.47828539199097575,Geopolitical Security and Strategic Relations
+Authoritarian,pre_health,0,0.03797706335777402,Global Development and Multilateral Cooperation
+Authoritarian,pre_health,2,0.00037601052829479227,National Economic Identity and Labor Framing
+Democratic,during_health,3,0.5609137055837563,Personalized Political Rhetoric and Executive Communication
+Democratic,during_health,2,0.35152284263959394,National Economic Identity and Labor Framing
+Democratic,during_health,0,0.05456852791878172,Global Development and Multilateral Cooperation
+Democratic,during_health,4,0.024111675126903553,Geopolitical Security and Strategic Relations
+Democratic,during_health,1,0.008883248730964468,Centralized Governance and Domestic State Authority
+Democratic,post_health,2,0.6174603174603175,National Economic Identity and Labor Framing
+Democratic,post_health,3,0.20396825396825397,Personalized Political Rhetoric and Executive Communication
+Democratic,post_health,4,0.1007936507936508,Geopolitical Security and Strategic Relations
+Democratic,post_health,0,0.07539682539682539,Global Development and Multilateral Cooperation
+Democratic,post_health,1,0.002380952380952381,Centralized Governance and Domestic State Authority
+Democratic,pre_health,3,0.4697286012526096,Personalized Political Rhetoric and Executive Communication
+Democratic,pre_health,2,0.4453723034098817,National Economic Identity and Labor Framing
+Democratic,pre_health,4,0.04523312456506611,Geopolitical Security and Strategic Relations
+Democratic,pre_health,0,0.037578288100208766,Global Development and Multilateral Cooperation
+Democratic,pre_health,1,0.0020876826722338203,Centralized Governance and Domestic State Authority

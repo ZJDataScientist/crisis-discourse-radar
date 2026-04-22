@@ -1,0 +1,11 @@
+security_crisis_phase,dominant_topic,proportion,topic_name
+during_security,1,0.3612791702679343,Centralized Governance and Domestic State Authority
+during_security,4,0.354580812445981,Geopolitical Security and Strategic Relations
+during_security,2,0.16248919619706137,National Economic Identity and Labor Framing
+during_security,0,0.0682800345721694,Global Development and Multilateral Cooperation
+during_security,3,0.05337078651685393,Personalized Political Rhetoric and Executive Communication
+pre_security,1,0.385901672173826,Centralized Governance and Domestic State Authority
+pre_security,4,0.36317212376088914,Geopolitical Security and Strategic Relations
+pre_security,3,0.11294683088014419,Personalized Political Rhetoric and Executive Communication
+pre_security,2,0.09472314008210674,National Economic Identity and Labor Framing
+pre_security,0,0.04325623310303395,Global Development and Multilateral Cooperation
