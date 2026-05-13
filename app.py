@@ -28,6 +28,25 @@ st.markdown(
 )
 
 st.divider()
+
+st.subheader("Conceptual Framework")
+st.markdown(
+    """
+    Crisis is treated as an exogenous shock that disrupts communicative equilibrium
+    and forces leaders to recalibrate how they allocate attention, frame issues, and
+    express emotional tone. The framework analyzes discourse across multiple layers:
+    issue salience captures shifts in policy attention; framing and semantic modeling
+    measure how meaning is reorganized; affective tone captures emotional intensity;
+    and Named Entity Recognition (NER) identifies changes in political agency and actor emphasis.
+    
+    Building on this structure, supervised and deep learning models test whether these
+    discursive transformations are not only observable, but also predictable. Regime type
+    functions as a moderating condition, allowing the analysis to distinguish universal
+    crisis adaptation from institutionally conditioned communication strategies.
+    """
+)
+
+st.divider()
 st.subheader("Analytical Sections")
 st.markdown(
     """
