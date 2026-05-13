@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 st.title("Discourse Radar")
-st.markdown("*Executive Political Communication Across Regimes and Crisis Phases*")
+st.markdown("Executive Political Communication Across Regimes and Crisis Phases")
 st.markdown(
     """
     A computational analysis of executive political speech across the United States,
