@@ -74,7 +74,7 @@ st.markdown(
     This dashboard analyzes how executive political discourse is restructured
     across crisis types — public health (COVID-19) and geopolitical security
     (Ukraine war) — and whether these shifts are universal or conditioned by
-    regime type.  The corpus covers **14 615 speeches** from the United States,
+    regime type.  The corpus covers **14,615 speeches** from the United States,
     United Kingdom, Russia, and China between 2017 and 2024.
     """
 )
