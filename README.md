@@ -1,2 +1,2 @@
 # crisis-discourse-radar
-Discourse Radar analyzes how executive communication restructures under crisis using NLP and machine learning. It integrates topic modeling, sentiment analysis, and deep learning into an interactive dashboard to reveal regime-conditioned discourse dynamics.
+Discourse Radar is an AI-assisted political discourse intelligence dashboard analyzing executive communication patterns across major geopolitical actors through NLP, sentiment analysis, semantic modeling, and comparative narrative tracking.
